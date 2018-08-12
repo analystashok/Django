@@ -1,0 +1,4 @@
+#create a web application wchich shows poersonal information
+# use model view template using jango and jinger to build app
+# enable app with blogs
+
